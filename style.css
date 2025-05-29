@@ -1,0 +1,24 @@
+body {
+    background-color: white;
+    margin: 0;
+}
+
+header {
+    background-color: red;
+    text-align: center;
+    padding: 15px;
+    margin: 10px;
+    box-shadow: 2px 3px 5px;
+}
+
+.video-container {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    padding: 10px;
+}
+
+
+header:hover {
+    background-color: yellow;
+}
